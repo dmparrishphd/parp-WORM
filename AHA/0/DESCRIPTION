@@ -1,0 +1,14 @@
+Package: parp
+Type: Package
+Title: par-Derived Parameters
+Version: 0.0-0
+Date: 2022-05-01
+Author: D.Michael Parrish
+Maintainer: Neat O <neatoverse@yahoo.com>
+Description: Various functions of the Graphical Parameters.
+    This family of functions is intended to facilitate
+    geometrical computations relating to the figure, plot, and
+    device regions. Applications include scale drawing.
+License: AGPL-3
+Encoding: UTF-8
+NeedsCompilation: no
