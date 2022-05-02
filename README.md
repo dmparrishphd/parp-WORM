@@ -1,1 +1,1 @@
-[README](https://github.com/dmparrishphd/parp-CORW#README.md).
+[README](https://github.com/dmparrishphd/parp-CORW#readme).
