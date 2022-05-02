@@ -1,2 +1,1 @@
-# parp-WORM
-compute on the graphical parameters
+[README](https://github.com/dmparrishphd/parp-CORW#README.md).
